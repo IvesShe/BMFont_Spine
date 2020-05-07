@@ -1,4 +1,4 @@
-# Spine、Photoshop+ShoeBox & BMFont 自製字型庫
+# Spine、Photoshop+ShoeBox & BMFont 自製字型庫 DEMO
 [展示網站](https://ivesshe.github.io/BMFont_Spine/)
 
 <center class="half">
