@@ -10,7 +10,7 @@
 </center>
 
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762311540.jpg?raw=true" width="600"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762311540.jpg?raw=true" width="700"/>
 </center>
 
 <center class="half">
