@@ -6,13 +6,13 @@
 </center>
 
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762148971.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762148971.jpg?raw=true" width="400"/>
 </center>
 
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762311540.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762311540.jpg?raw=true" width="600"/>
 </center>
 
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762087013.jpg?raw=true" width="500"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762087013.jpg?raw=true" width="400"/>
 </center>
