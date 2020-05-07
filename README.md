@@ -6,7 +6,7 @@
 </center>
 
 <center class="half">
-    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762148971.jpg?raw=true" width="400"/>
+    <img src="https://github.com/IvesShe/CocosCreatorDemo/blob/master/image/BMFont_Spine/1588762148971.jpg?raw=true" width="500"/>
 </center>
 
 <center class="half">
